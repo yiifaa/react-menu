@@ -25,7 +25,7 @@
 <li>Unmount：已移出真实DOM</li>
 </ol>
 
->组件间的通信
+##组件间的通信
 
 
 入门教程请参考<a href="http://www.ruanyifeng.com/blog/2015/03/react.html">React入门实例教程</a>
